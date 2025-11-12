@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
+    "name": "GitClone",
+    "tagline": "Where code lives",
+    "description": "A modern GitHub-like platform for hosting and collaborating on code. Browse repositories, view code with syntax highlighting, and explore projects.",
     "ogImage": "/og-image.png",
     "twitterHandle": "",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
+      "email": "contact@gitclone.dev",
+      "company": "GitClone",
       "address": ""
     },
     "legal": {
